@@ -1,16 +1,16 @@
 #!/bin/bash -
 #title          :hts.sh
 #description    :Hybrid multipurpose (console/container) terminal server.
-#author         :Stefano Stagnaro
-#date           :20151118
-#version        :0.1
+#author         :Marco Ziliani (forked from Stefano Stagnaro)
+#date           :20170425
+#version        :0.2
 #usage          :./hts.sh
 #notes          :visit https://github.com/ninth9ste/hts for more help.
 #bash_version   :4.2.46(1)-release
 #============================================================================
 
 # Variabili globali
-hts_companyname="eForHum"
+hts_companyname="IIS Torriani"
 hts_podname="POD1CCNA" #Potrebbe essere uguale a "$USERNAME"
 hts_dialog_height=20
 hts_dialog_width=70
